@@ -1,0 +1,17 @@
+body{
+background-color:brown
+}
+
+main{
+    align-items: center;
+justify-content: center;
+display: flex;
+position: relative;
+
+}
+
+img{
+    width: 200px;
+height: 200px;
+
+}
